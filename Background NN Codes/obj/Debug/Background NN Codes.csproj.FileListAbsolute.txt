@@ -1,0 +1,10 @@
+C:\Users\Lito\source\repos\Background NN Codes\Background NN Codes\bin\Debug\Background NN Codes.exe.config
+C:\Users\Lito\source\repos\Background NN Codes\Background NN Codes\bin\Debug\Background NN Codes.exe
+C:\Users\Lito\source\repos\Background NN Codes\Background NN Codes\bin\Debug\Background NN Codes.pdb
+C:\Users\Lito\source\repos\Background NN Codes\Background NN Codes\obj\Debug\Background NN Codes.csproj.AssemblyReference.cache
+C:\Users\Lito\source\repos\Background NN Codes\Background NN Codes\obj\Debug\Background_NN_Codes.Form1.resources
+C:\Users\Lito\source\repos\Background NN Codes\Background NN Codes\obj\Debug\Background_NN_Codes.Properties.Resources.resources
+C:\Users\Lito\source\repos\Background NN Codes\Background NN Codes\obj\Debug\Background NN Codes.csproj.GenerateResource.cache
+C:\Users\Lito\source\repos\Background NN Codes\Background NN Codes\obj\Debug\Background NN Codes.csproj.CoreCompileInputs.cache
+C:\Users\Lito\source\repos\Background NN Codes\Background NN Codes\obj\Debug\Background NN Codes.exe
+C:\Users\Lito\source\repos\Background NN Codes\Background NN Codes\obj\Debug\Background NN Codes.pdb
